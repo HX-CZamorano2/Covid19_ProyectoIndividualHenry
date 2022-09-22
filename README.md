@@ -1,4 +1,4 @@
-# Covid19_Proyecto Individual Henry
+# Covid 19 Proyecto Individual Henry
 
 El CDC (centro de control y prevención de enfermedades) de EE. UU. es la entidad encargada de monitorear la salud pública y desarrollar estrategias para la prevención y control de enfermedades. Por esto ha contratado a nuestra consultora para organizar, en base a los datos recolectados, los recursos hospitalarios para prevenir que lo ocurrido durante la pandemia COVID-19 suceda de vuelta.
 
@@ -15,17 +15,17 @@ Intervalos de crecimiento y decrecimiento
 
 Puntos críticos (mínimos y máximos)
 
-3 - ¿Cuáles fueron los cinco Estados que más camas UCI -Unidades de Cuidados Intensivos- utilizaron durante el año 2020? La medición debe realizarse en términos absolutos.
+3 - ¿Cuáles fueron los cinco Estados que más camas UCI -Unidades de Cuidados Intensivos- utilizaron durante el año 2020? 
 
 4 - ¿Qué cantidad de camas se utilizaron, por Estado, para pacientes pediátricos con COVID durante el 2020?
 
-5 - ¿Qué porcentaje de camas UCI corresponden a casos confirmados de COVID-19? Agrupe por Estado.
+5 - ¿Qué porcentaje de camas UCI corresponden a casos confirmados de COVID-19? Agrupando por Estado.
 
 6 - ¿Cuántas muertes por covid hubo, por Estado, durante el año 2021?
 
 7 - ¿Qué relación presenta la falta de personal médico, con la cantidad de muertes por covid durante el año 2021?
 
-8 - Siguiendo las respuestas anteriores, ¿cuál fue el peor mes de la pandemia para USA en su conjunto? Puede utilizar otras medidas que considere necesarias.
+8 - Siguiendo las respuestas anteriores, ¿cuál fue el peor mes de la pandemia para USA en su conjunto? 
 
-9 - ¿Qué recomendaciones haría, ex post, con respecto a los recursos hospitalarios y su uso?
+9 - Recomendaciones con respecto a los recursos hospitalarios y su uso.
 
